@@ -37,6 +37,3 @@ def main():
         
 if __name__ == '__main__':
     main()
-
-# check if pub even helps (probably does?)
-# check data is up to date (esp pub and spread)

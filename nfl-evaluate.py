@@ -54,8 +54,3 @@ def evaluate_week(arr_range, data, labels, model):
 
 if __name__ == '__main__':
     main()
-
-#probs = lr.predict_proba(Xpoly)[:,1]
-#probdevs = abs(probs-0.5)
-#order = probdevs.argsort()
-#ranks = order.argsort()
